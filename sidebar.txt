@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nbi:home|Door43 (nbi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nbi|d43-nbi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nbi/archive/master.zip|d43-nbi.zip]]
+
+**Recent Changes**
+{{changes>ns = nbi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nbi|Ethnologue data]]
+
